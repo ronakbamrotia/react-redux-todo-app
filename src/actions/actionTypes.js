@@ -1,0 +1,8 @@
+export const ADD_TODO = "ADD_TODO";
+export const DELETE_TODO = "DELETE_TODO";
+export const UPDATE_TODO = "UPDATE_TODO";
+export const UPDATE_STATUS = "UPDATE_STATUS";
+export const GET_LIST_OF_TODOS = "GET_LIST_OF_TODOS";
+export const GET_COMPLETED = "GET_COMPLETED";
+export const GET_ALL_TODOS = "GET_ALL_TODOS";
+export const GET_INCOMPLETED_TODOS = "GET_INCOMPLETED_TODOS";
